@@ -1,0 +1,16 @@
+<div class="container-fluid" id="page2">
+    <h1>All Squads</h1>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <ol>
+        #foreach ($squad in $squads)
+        <li><a href="/squads/$squad.getId()">$squad.getName()</a></li>
+        #end
+    </ol>
+
+    <a href="/squads/new" class="btn btn-danger btn-lg">Add New Squad</a>
+</div>

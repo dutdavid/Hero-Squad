@@ -1,0 +1,85 @@
+body {
+    background-image: url(../images/god-of-war-4-2018-oo.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 60px;
+    color: black;
+    padding-top: 5%;
+}
+
+.btn-danger {
+    size: 40px;
+}
+
+li {
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+    color: black;
+}
+
+#page2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+a {
+    color: black;
+}
+
+form {
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 30%;
+    padding-bottom: 5%;
+    color: black;
+    font-size: 30px;
+}
+
+#page4 {
+    font-size: 30px;
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#page6 {
+    font-size: 30px;
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#page7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2 {
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#page8 {
+    font-size: 30px;
+    color: black;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#page9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+li {
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+    color: black;
+}

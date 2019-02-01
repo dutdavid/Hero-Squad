@@ -1,0 +1,13 @@
+<div class="container-fluid" id="page9">
+    <h1>Heroes list</h1> #if ($heroes)
+    <ol>
+        #foreach ($hero in $heroes)
+        <li><a href="/heroes/$hero.getId()">$hero.getName()</a></li>
+        #end
+    </ol>
+    #else
+    <p>Hero unavailable!</p>
+    #end
+
+    <a href="/heroes/new" class="btn btn-danger btn-lg">Add New Hero</a>
+</div>

@@ -1,0 +1,24 @@
+<div class="container-fluid">
+    <h1>Add a hero to $squad.getName()</h1>
+
+    <form action="/heroes" method="post">
+        <input id="squadId" name="squadId" type="hidden" value="$squad.getId()">
+        <div class="form-group">
+            <label for="name">Name</label>
+            <input id="name" name="name" type="text" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="age">Age</label>
+            <input id="age" name="age" type="number" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="power">Power</label>
+            <textarea id="power" name="power" type="text" row "10" class="form-control"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="weakness">Weakness</label>
+            <textarea id="weakness" name="weakness" type="text" row "10" class="form-control"></textarea>
+        </div>
+        <button type="submit" class="btn btn-danger btn-lg">Add Hero!</button>
+    </form>
+</div>
