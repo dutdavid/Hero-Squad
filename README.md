@@ -1,6 +1,8 @@
-#  Hero-Squad
 
-#### _01.02.2019_
+
+# _Hero-Squad_
+
+#### _1.1.2019_
 
 #### By _**David Dut**_
 
@@ -18,7 +20,7 @@ _The applications allows users to do the following:_
 
 * _Make sure you have Java, Gradle installed._
 * _Clone this repository from my Github named dutdavid._
-* _Go to https://hidden-waters-22388.herokuapp.com/ for more information._
+
 
 
 ## Known Bugs

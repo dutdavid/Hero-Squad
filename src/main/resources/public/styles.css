@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-    font-family: 'Permanent Marker', cursive;
+    font-family: "Times New Roman", Times, serif;
     font-size: 60px;
     color: black;
     padding-top: 5%;
@@ -17,7 +17,7 @@ h1 {
 
 li {
     font-size: 30px;
-    font-family: 'Permanent Marker', cursive;
+    font-family: "Times New Roman", Times, serif;
     color: black;
 }
 
@@ -44,13 +44,13 @@ form {
 #page4 {
     font-size: 30px;
     color: black;
-    font-family: 'Permanent Marker', cursive;
+    font-family: "Times New Roman", Times, serif;
 }
 
 #page6 {
     font-size: 30px;
     color: black;
-    font-family: 'Permanent Marker', cursive;
+    font-family: "Times New Roman", Times, serif;
 }
 
 #page7 {
@@ -62,13 +62,13 @@ form {
 
 h2 {
     color: black;
-    font-family: 'Permanent Marker', cursive;
+    font-family: "Times New Roman", Times, serif;
 }
 
 #page8 {
     font-size: 30px;
     color: black;
-    font-family: 'Permanent Marker', cursive;
+    font-family: "Times New Roman", Times, serif;
 }
 
 #page9 {
@@ -80,6 +80,6 @@ h2 {
 
 li {
     font-size: 30px;
-    font-family: 'Permanent Marker', cursive;
+    font-family: "Times New Roman", Times, serif;
     color: black;
 }
