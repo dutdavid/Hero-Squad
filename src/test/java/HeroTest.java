@@ -21,12 +21,6 @@ public class HeroTest {
     assertEquals(true, Hero.all().contains(secondHero));
   }
 
-  // @Test
-  // public void clear_emptiesAllHeroesFromList_0() {
-  //   Hero newHero = new Hero("Spider Man", 30, "Flying Around", "Beautiful Girl");
-  //   assertEquals(0, Hero.all().size());
-  // }
-
   @Test
   public void getId_heroInstantiatesWithId_1() {
     Hero newHero = new Hero("Spider Man", 30, "Flying Around", "Beautiful Girl");
