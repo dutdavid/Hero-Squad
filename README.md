@@ -15,12 +15,34 @@ _The applications allows users to do the following:_
 * _Create a new Squad list_
 * _Add new Hero to a Squad_
 
+## Setup/Installation Requirements 
+1.On GitHub, navigate to the main page of the repository.
+
+2.Under the repository name, click Clone or download.
+
+3.In the Clone with HTTPs section, click to copy the clone URL for the repository.
+
+4.Open Terminal.
+
+5.Change the current working directory to the location where you want the cloned directory to be made.
+
+6.Type git clone, and then paste the URL you copied in Step 2.
+
+7.Press Enter. Your local clone will be created.
 
 ## Setup/Installation Requirements
 
 * _Make sure you have Java, Gradle installed._
 * _Clone this repository from my Github named dutdavid._
 
+## Behavior Driven Development
+| input                    |    output                         |
+|--------------------------|-----------------------------------|
+| add a new squad          |  displays form for creating squad |
+| view squads              |  shows squad added                |
+| click the added squad    |  displays heroes in squad         | 
+| click add a new hero     | displays heroes attributes form   |
+| click add hero           | new hero is added to the squad    |
 
 
 ## Known Bugs
